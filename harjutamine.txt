@@ -1,0 +1,4 @@
+Github on veebisait kus programeerijad saavad kirjutada, salvestaja ja teiste kasutajatega enda koodi jagada.
+Githubis saab enda koodi kopeerida ja seda erinevates kaustades säilitada.
+See annab kasutajale võimaluse osa enda koodist muuta ja seda katsetada, seejuures ülejäänud koodi puutumata. 
+Kui muudetud kood töötab ootuspäraselt siis laseb Github seda lihtsasti põhilise koodiga ühendada. 
